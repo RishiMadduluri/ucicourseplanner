@@ -1,0 +1,53 @@
+{
+  "name": "zotpath",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "ZotPath — unofficial local-first UCI four-year course planner (CS B.S., optional Mathematics second major)",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.node.json --noEmit",
+    "lint": "eslint . --max-warnings 0",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "data:refresh": "tsx scripts/data/refresh.ts",
+    "data:refresh:offline": "tsx scripts/data/refresh.ts --offline",
+    "verify": "npm run typecheck && npm run lint && npm run test && npm run build",
+    "data:stage": "tsx scripts/data/stage.ts",
+    "predev": "npm run data:stage",
+    "prebuild": "npm run data:stage",
+    "transfer:check-links": "tsx scripts/data/checkTransferLinks.ts",
+    "plan:review": "tsx scripts/data/reviewPlan.ts"
+  },
+  "dependencies": {
+    "dexie": "^4.0.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.24.1",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/node": "^22.10.5",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "fake-indexeddb": "^6.0.0",
+    "jsdom": "^25.0.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "buildId": "catalogue-2026-27-2026-07-24-c9d4fda4",
+  "schemaVersion": 1,
+  "catalogueYear": "2026-27",
+  "retrievedAt": "2026-07-24T22:06:11.957Z",
+  "retrievalDate": "2026-07-24",
+  "offline": false,
+  "sources": [
+    {
+      "url": "https://catalogue.uci.edu/allcourses/",
+      "kind": "catalogue_index"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ac_eng/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/afam/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ai_sci/",
+      "kind": "catalogue_department"
+    }
+  ],
+  "sourceHashes": {
+    "_index.html": "f2a26ea808693f578a68b55e978aa9e4009283972fb697429ad0b5ccdd9a89d1",
+    "ac_eng.html": "e5f1b6f1ca2c39fe6ce064d0a4220bb69837a5ece62950ad0c70b9a2b4c3f2e0",
+    "afam.html": "891051227f5ad37344be77f812ff77c4ecbd0ac93d05b18745933309085f9dab",
+    "ai_sci.html": "fa90b77d60f9286761ca5e30ba7dbe84aa4d8da91318438a486a778d40f3d425"
+  },
+  "courseCount": 59,
+  "departmentCount": 3,
+  "parserErrorCount": 0
+}

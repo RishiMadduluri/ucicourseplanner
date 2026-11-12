@@ -1,0 +1,34 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+
+# Dated raw source snapshots are large and reproducible via `npm run data:refresh`.
+data/raw/
+
+# Test output
+coverage/
+playwright-report/
+test-results/
+.vite/
+
+# Generated at build time from data/normalized by `npm run data:stage`.
+public/data/
+
+# TypeScript incremental build info
+tsconfig.tsbuildinfo
+
+# Python tooling for the transfer-guide PDF (venv is machine-specific)
+build/venv/
+__pycache__/
+*.pyc
+# Generated copy; the published PDF lives in docs/
+build/transfer-guide/UCI-Transfer-Guide.pdf
+
+# Local editor / assistant settings
+.claude/
+.vscode/
+.idea/

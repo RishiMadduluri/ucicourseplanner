@@ -1,0 +1,2455 @@
+{
+  "buildId": "catalogue-2026-27-2026-09-02-ee125b9d",
+  "retrievedAt": "2026-09-02T15:13:11.528Z",
+  "departmentCount": 123,
+  "departmentsParsed": 123,
+  "courseCount": 5933,
+  "errorCount": 228,
+  "errorsByStage": {
+    "prerequisite": 222,
+    "units": 6
+  },
+  "departments": [
+    {
+      "slug": "ac_eng",
+      "courses": 13,
+      "errors": 0
+    },
+    {
+      "slug": "afam",
+      "courses": 35,
+      "errors": 0
+    },
+    {
+      "slug": "ai_sci",
+      "courses": 11,
+      "errors": 0
+    },
+    {
+      "slug": "anatomy",
+      "courses": 19,
+      "errors": 0
+    },
+    {
+      "slug": "anthro",
+      "courses": 117,
+      "errors": 2
+    },
+    {
+      "slug": "arabic",
+      "courses": 13,
+      "errors": 0
+    },
+    {
+      "slug": "armn",
+      "courses": 8,
+      "errors": 0
+    },
+    {
+      "slug": "art",
+      "courses": 76,
+      "errors": 0
+    },
+    {
+      "slug": "art_his",
+      "courses": 62,
+      "errors": 1
+    },
+    {
+      "slug": "arts",
+      "courses": 4,
+      "errors": 1
+    },
+    {
+      "slug": "asianam",
+      "courses": 39,
+      "errors": 0
+    },
+    {
+      "slug": "asl",
+      "courses": 3,
+      "errors": 0
+    },
+    {
+      "slug": "bana",
+      "courses": 25,
+      "errors": 0
+    },
+    {
+      "slug": "bats",
+      "courses": 11,
+      "errors": 0
+    },
+    {
+      "slug": "bio_sci",
+      "courses": 171,
+      "errors": 0
+    },
+    {
+      "slug": "biochem",
+      "courses": 18,
+      "errors": 0
+    },
+    {
+      "slug": "bme",
+      "courses": 79,
+      "errors": 3
+    },
+    {
+      "slug": "cbe",
+      "courses": 52,
+      "errors": 2
+    },
+    {
+      "slug": "cbems",
+      "courses": 0,
+      "errors": 0
+    },
+    {
+      "slug": "chc_lat",
+      "courses": 76,
+      "errors": 5
+    },
+    {
+      "slug": "chem",
+      "courses": 122,
+      "errors": 6
+    },
+    {
+      "slug": "chinese",
+      "courses": 32,
+      "errors": 1
+    },
+    {
+      "slug": "classic",
+      "courses": 28,
+      "errors": 0
+    },
+    {
+      "slug": "clt_thy",
+      "courses": 7,
+      "errors": 1
+    },
+    {
+      "slug": "cogs",
+      "courses": 114,
+      "errors": 5
+    },
+    {
+      "slug": "com_lit",
+      "courses": 38,
+      "errors": 1
+    },
+    {
+      "slug": "compsci",
+      "courses": 143,
+      "errors": 11
+    },
+    {
+      "slug": "critism",
+      "courses": 1,
+      "errors": 0
+    },
+    {
+      "slug": "crm_law",
+      "courses": 120,
+      "errors": 2
+    },
+    {
+      "slug": "cse",
+      "courses": 3,
+      "errors": 0
+    },
+    {
+      "slug": "dance",
+      "courses": 115,
+      "errors": 10
+    },
+    {
+      "slug": "data",
+      "courses": 16,
+      "errors": 1
+    },
+    {
+      "slug": "dev_bio",
+      "courses": 24,
+      "errors": 0
+    },
+    {
+      "slug": "drama",
+      "courses": 150,
+      "errors": 6
+    },
+    {
+      "slug": "earthss",
+      "courses": 81,
+      "errors": 0
+    },
+    {
+      "slug": "eas",
+      "courses": 30,
+      "errors": 0
+    },
+    {
+      "slug": "eco_evo",
+      "courses": 45,
+      "errors": 1
+    },
+    {
+      "slug": "econ",
+      "courses": 135,
+      "errors": 10
+    },
+    {
+      "slug": "ecps",
+      "courses": 17,
+      "errors": 0
+    },
+    {
+      "slug": "educ",
+      "courses": 171,
+      "errors": 1
+    },
+    {
+      "slug": "eecs",
+      "courses": 143,
+      "errors": 3
+    },
+    {
+      "slug": "ehs",
+      "courses": 18,
+      "errors": 0
+    },
+    {
+      "slug": "english",
+      "courses": 36,
+      "errors": 6
+    },
+    {
+      "slug": "engr",
+      "courses": 47,
+      "errors": 2
+    },
+    {
+      "slug": "engrcee",
+      "courses": 142,
+      "errors": 4
+    },
+    {
+      "slug": "engrmae",
+      "courses": 139,
+      "errors": 1
+    },
+    {
+      "slug": "epidem",
+      "courses": 30,
+      "errors": 3
+    },
+    {
+      "slug": "euro_st",
+      "courses": 24,
+      "errors": 0
+    },
+    {
+      "slug": "fin",
+      "courses": 28,
+      "errors": 0
+    },
+    {
+      "slug": "flm_mda",
+      "courses": 60,
+      "errors": 0
+    },
+    {
+      "slug": "french",
+      "courses": 40,
+      "errors": 18
+    },
+    {
+      "slug": "gdim",
+      "courses": 21,
+      "errors": 0
+    },
+    {
+      "slug": "gen_sex",
+      "courses": 42,
+      "errors": 1
+    },
+    {
+      "slug": "german",
+      "courses": 25,
+      "errors": 4
+    },
+    {
+      "slug": "glblclt",
+      "courses": 7,
+      "errors": 0
+    },
+    {
+      "slug": "glblme",
+      "courses": 4,
+      "errors": 0
+    },
+    {
+      "slug": "greek",
+      "courses": 9,
+      "errors": 0
+    },
+    {
+      "slug": "hebrew",
+      "courses": 4,
+      "errors": 0
+    },
+    {
+      "slug": "history",
+      "courses": 126,
+      "errors": 0
+    },
+    {
+      "slug": "human",
+      "courses": 39,
+      "errors": 1
+    },
+    {
+      "slug": "i_c_sci",
+      "courses": 28,
+      "errors": 2
+    },
+    {
+      "slug": "in4matx",
+      "courses": 52,
+      "errors": 25
+    },
+    {
+      "slug": "inno",
+      "courses": 17,
+      "errors": 0
+    },
+    {
+      "slug": "intl_st",
+      "courses": 77,
+      "errors": 0
+    },
+    {
+      "slug": "iran",
+      "courses": 16,
+      "errors": 1
+    },
+    {
+      "slug": "italian",
+      "courses": 14,
+      "errors": 4
+    },
+    {
+      "slug": "japanse",
+      "courses": 26,
+      "errors": 0
+    },
+    {
+      "slug": "korean",
+      "courses": 14,
+      "errors": 0
+    },
+    {
+      "slug": "latin",
+      "courses": 9,
+      "errors": 0
+    },
+    {
+      "slug": "linguis",
+      "courses": 0,
+      "errors": 0
+    },
+    {
+      "slug": "lit_jrn",
+      "courses": 8,
+      "errors": 0
+    },
+    {
+      "slug": "lps",
+      "courses": 59,
+      "errors": 0
+    },
+    {
+      "slug": "lsci",
+      "courses": 91,
+      "errors": 24
+    },
+    {
+      "slug": "m_mg",
+      "courses": 26,
+      "errors": 0
+    },
+    {
+      "slug": "math",
+      "courses": 151,
+      "errors": 1
+    },
+    {
+      "slug": "medhum",
+      "courses": 5,
+      "errors": 0
+    },
+    {
+      "slug": "mgmt",
+      "courses": 76,
+      "errors": 1
+    },
+    {
+      "slug": "mgmt_ep",
+      "courses": 19,
+      "errors": 0
+    },
+    {
+      "slug": "mgmt_fe",
+      "courses": 50,
+      "errors": 0
+    },
+    {
+      "slug": "mgmt_hc",
+      "courses": 0,
+      "errors": 0
+    },
+    {
+      "slug": "mgmtmba",
+      "courses": 36,
+      "errors": 1
+    },
+    {
+      "slug": "mgmtphd",
+      "courses": 16,
+      "errors": 0
+    },
+    {
+      "slug": "mnge",
+      "courses": 20,
+      "errors": 0
+    },
+    {
+      "slug": "mol_bio",
+      "courses": 47,
+      "errors": 0
+    },
+    {
+      "slug": "mpac",
+      "courses": 23,
+      "errors": 2
+    },
+    {
+      "slug": "mse",
+      "courses": 59,
+      "errors": 2
+    },
+    {
+      "slug": "music",
+      "courses": 128,
+      "errors": 6
+    },
+    {
+      "slug": "net_sys",
+      "courses": 8,
+      "errors": 1
+    },
+    {
+      "slug": "neurbio",
+      "courses": 27,
+      "errors": 2
+    },
+    {
+      "slug": "nur_sci",
+      "courses": 99,
+      "errors": 3
+    },
+    {
+      "slug": "path",
+      "courses": 20,
+      "errors": 0
+    },
+    {
+      "slug": "ped_gen",
+      "courses": 19,
+      "errors": 0
+    },
+    {
+      "slug": "persian",
+      "courses": 11,
+      "errors": 0
+    },
+    {
+      "slug": "pharm",
+      "courses": 14,
+      "errors": 0
+    },
+    {
+      "slug": "philos",
+      "courses": 93,
+      "errors": 0
+    },
+    {
+      "slug": "phmd",
+      "courses": 56,
+      "errors": 0
+    },
+    {
+      "slug": "phrmsci",
+      "courses": 49,
+      "errors": 0
+    },
+    {
+      "slug": "phy_sci",
+      "courses": 6,
+      "errors": 0
+    },
+    {
+      "slug": "physics",
+      "courses": 143,
+      "errors": 1
+    },
+    {
+      "slug": "physio",
+      "courses": 16,
+      "errors": 0
+    },
+    {
+      "slug": "pol_sci",
+      "courses": 115,
+      "errors": 1
+    },
+    {
+      "slug": "portug",
+      "courses": 1,
+      "errors": 1
+    },
+    {
+      "slug": "pp_d",
+      "courses": 0,
+      "errors": 0
+    },
+    {
+      "slug": "psy",
+      "courses": 158,
+      "errors": 2
+    },
+    {
+      "slug": "pub_pol",
+      "courses": 0,
+      "errors": 0
+    },
+    {
+      "slug": "pubhlth",
+      "courses": 130,
+      "errors": 5
+    },
+    {
+      "slug": "rel_std",
+      "courses": 34,
+      "errors": 0
+    },
+    {
+      "slug": "rotc",
+      "courses": 16,
+      "errors": 0
+    },
+    {
+      "slug": "russian",
+      "courses": 14,
+      "errors": 0
+    },
+    {
+      "slug": "soc_sci",
+      "courses": 93,
+      "errors": 1
+    },
+    {
+      "slug": "socecol",
+      "courses": 46,
+      "errors": 5
+    },
+    {
+      "slug": "sociol",
+      "courses": 123,
+      "errors": 13
+    },
+    {
+      "slug": "spanish",
+      "courses": 55,
+      "errors": 1
+    },
+    {
+      "slug": "spps",
+      "courses": 9,
+      "errors": 0
+    },
+    {
+      "slug": "stats",
+      "courses": 51,
+      "errors": 3
+    },
+    {
+      "slug": "swe",
+      "courses": 46,
+      "errors": 0
+    },
+    {
+      "slug": "ucdc",
+      "courses": 3,
+      "errors": 3
+    },
+    {
+      "slug": "uni_aff",
+      "courses": 3,
+      "errors": 1
+    },
+    {
+      "slug": "uni_stu",
+      "courses": 57,
+      "errors": 1
+    },
+    {
+      "slug": "uppp",
+      "courses": 104,
+      "errors": 2
+    },
+    {
+      "slug": "vietmse",
+      "courses": 9,
+      "errors": 0
+    },
+    {
+      "slug": "vis_std",
+      "courses": 9,
+      "errors": 0
+    },
+    {
+      "slug": "writing",
+      "courses": 21,
+      "errors": 0
+    }
+  ],
+  "errors": [
+    {
+      "department": "anthro",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/anthro/",
+      "code": "ANTHRO 125A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "One course in general science, anthropology, economics, geography, or sociology."
+    },
+    {
+      "department": "anthro",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/anthro/",
+      "code": "ANTHRO 169",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "art_his",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/art_his/",
+      "code": "ART HIS 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Background in art history or legal studies."
+    },
+    {
+      "department": "arts",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/arts/",
+      "code": "ARTS 75",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Proposal submission required."
+    },
+    {
+      "department": "bme",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/bme/",
+      "code": "BME 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "bme",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/bme/",
+      "code": "BME 295",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "bme",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/bme/",
+      "code": "BME 295P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "cbe",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cbe/",
+      "code": "CBE 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "cbe",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cbe/",
+      "code": "CBE 249",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chc_lat",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "code": "CHC/LAT 129",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chc_lat",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "code": "CHC/LAT 139",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chc_lat",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "code": "CHC/LAT 159",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chc_lat",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "code": "CHC/LAT 169",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chc_lat",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "code": "CHC/LAT 189",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 1X",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.25). Raw text retained.",
+      "rawExcerpt": "Students who meet the requirements for taking Chem 1A through their SAT, ACT, or AP test scores are not eligible for enrollment in Chem 1X. Specifically, the students must have ALL of the following advisory prerequisites (the inverse of the"
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 197",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Enrollment requires completion of an application form."
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 221A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate courses in physical chemistry and biochemistry."
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 225",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate courses in organic and physical chemistry."
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 238",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "One year of graduate quantum mechanics, or the equivalent."
+    },
+    {
+      "department": "chem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chem/",
+      "code": "CHEM 239",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Must be familiar with standard computer operation."
+    },
+    {
+      "department": "chinese",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/chinese/",
+      "code": "CHINESE 299",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to Ph.D. candidacy."
+    },
+    {
+      "department": "clt_thy",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/clt_thy/",
+      "code": "CLT&THY 298",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Completion of the M.A. degree."
+    },
+    {
+      "department": "cogs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cogs/",
+      "code": "COGS 89",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "cogs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cogs/",
+      "code": "COGS 119",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "cogs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cogs/",
+      "code": "COGS 177F",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.86). Raw text retained.",
+      "rawExcerpt": "( PSY 9 or COGS 7A or COGS 9C) and PSY 102C and ( PSY 161C or CRM/LAW C160 ). Interview required"
+    },
+    {
+      "department": "cogs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cogs/",
+      "code": "COGS 189",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary"
+    },
+    {
+      "department": "cogs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/cogs/",
+      "code": "COGS 205B",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of Python programming."
+    },
+    {
+      "department": "com_lit",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/com_lit/",
+      "code": "COM LIT 101W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "Satisfactory completion of the Lower-Division Writing requirement. Working knowledge of at least one foreign language."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 115",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.90). Raw text retained.",
+      "rawExcerpt": "I&C SCI 6B with a minimum grade of C and ( I&C SCI 6N with a minimum grade of C or MATH 3A with a minimum grade of C) and ( STATS 67 with a minimum grade of C or ( STATS 7 with a minimum grade of C or AP Statistics with a minimum score of 3"
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 190",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 201P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of Python or C++ programming is required."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 206",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Basic courses in multivariate calculus, linear algebra, and probability."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 224P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of fundamental database concepts and data management techniques."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 237",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "An undergraduate-level course in operating systems and networks."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 238P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Working knowledge of C and the Linux environment."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 244P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate-level familiarity with fundamentals of integrated circuit blocks, processors, optimization/algorithm design, and some programming experience."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 250P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate-level familiarity with fundamentals of integrated circuit blocks, processors, and optimization/algorithm design, and some programming experience."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 275",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Basic course in algorithm design and analysis."
+    },
+    {
+      "department": "compsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/compsci/",
+      "code": "COMPSCI 284A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "A Basic course in algorithms or a basic course in molecular biology."
+    },
+    {
+      "department": "crm_law",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/crm_law/",
+      "code": "CRM/LAW C136",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.86). Raw text retained.",
+      "rawExcerpt": "( PSY 9 or COGS 7A or COGS 9C) and PSY 102C and ( PSY 161C or CRM/LAW C160 ). Interview required"
+    },
+    {
+      "department": "crm_law",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/crm_law/",
+      "code": "CRM/LAW C296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 132A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.60). Raw text retained.",
+      "rawExcerpt": "( DANCE 30A and DANCE 30B and DANCE 30C ) or audition. Prerequisites are for non-Dance majors only."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 135A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 142A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 152A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 155A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 170",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required. Minimum 3.2 Dance major G.P.A. required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 171",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required. Minimum 3.2 Dance major G.P.A. required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 172",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required. Minimum 3.2 Dance major G.P.A. required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 241A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "dance",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/dance/",
+      "code": "DANCE 255A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "data",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/data/",
+      "code": "DATA 200AP",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of basic statistics and linear algebra; Calculus I-III."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 65",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 100",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 130",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "DRAMA 30A and DRAMA 30B and DRAMA 30C with an average grade of B or better. For transfer students: one year of beginning acting with an average grade of B or better."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 142",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 144",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.33). Raw text retained.",
+      "rawExcerpt": "For B.F.A. students: DRAMA 143A , DRAMA 143B , DRAMA 143C , and audition. For Drama graduate students: audition required."
+    },
+    {
+      "department": "drama",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/drama/",
+      "code": "DRAMA 146",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "Admission is by audition and the following prerequisites: DRAMA 30C and two quarters of DRAMA 148A , DRAMA 148B , or DRAMA 148C (if the 148 prerequisite is not complete at the time of auditions, student must enroll during the fall and winte"
+    },
+    {
+      "department": "eco_evo",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/eco_evo/",
+      "code": "ECO EVO 207",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Completion of at least one quarter of statistics including regression and analysis of variance."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 129",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 139",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.83). Raw text retained.",
+      "rawExcerpt": "MATH 2A or AP Calculus AB with a minimum score of 3 or AP Calculus BC with a minimum score of 4 and ( MATH 2B or AP Calculus BC with a minimum score of 4). Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 152A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "One course in general science, anthropology, economics, geography, or sociology."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 169",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 229",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 239",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 249",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 259",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 269",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "econ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/econ/",
+      "code": "ECON 279",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "educ",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/educ/",
+      "code": "EDUC 101",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Must be able to communicate in Spanish."
+    },
+    {
+      "department": "eecs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/eecs/",
+      "code": "EECS 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "eecs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/eecs/",
+      "code": "EECS 235",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge in linear algebra and complex analysis."
+    },
+    {
+      "department": "eecs",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/eecs/",
+      "code": "EECS 285P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "Undergraduate-level Engineering Electromagnetics I (e.g. EECS E80A)."
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 101W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "Three courses selected from ENGLISH 8 , ENGLISH 9 , ENGLISH 10 , ENGLISH 11 , ENGLISH 12 , ENGLISH 15 , ENGLISH 16 , ENGLISH 17 ; or LIT JRN 20 and LIT JRN 21 and one course selected from the above list. Satisfactory completion of the Lower"
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 102A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "Three courses selected from ENGLISH 8 , ENGLISH 9 , ENGLISH 10 , ENGLISH 11 , ENGLISH 12 , ENGLISH 15 , ENGLISH 16 , ENGLISH 17 . Or LIT JRN 20 and LIT JRN 21 and one course selected from the above list."
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 102B",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "Three courses selected from ENGLISH 8 , ENGLISH 9 , ENGLISH 10 , ENGLISH 11 , ENGLISH 12 , ENGLISH 15 , ENGLISH 16 , ENGLISH 17 . Or LIT JRN 20 and LIT JRN 21 and one course selected from the above list."
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 102C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "Three courses selected from ENGLISH 8 , ENGLISH 9 , ENGLISH 10 , ENGLISH 11 , ENGLISH 12 , ENGLISH 15 , ENGLISH 16 , ENGLISH 17 . Or LIT JRN 20 and LIT JRN 21 and one course selected from the above list."
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 102D",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "Three courses selected from ENGLISH 8 , ENGLISH 9 , ENGLISH 10 , ENGLISH 11 , ENGLISH 12 , ENGLISH 15 , ENGLISH 16 , ENGLISH 17 . Or LIT JRN 20 and LIT JRN 21 and one course selected from the above list."
+    },
+    {
+      "department": "english",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/english/",
+      "code": "ENGLISH 106",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.52). Raw text retained.",
+      "rawExcerpt": "( ENGLISH 101W or WRITING 101W ) and ( ENGLISH 100 and 102A ) or ( ENGLISH 100 and 102B ) or ( ENGLISH 100 and 102C ) or ( ENGLISH 100 and 102D ) or ( ENGLISH 102A and 102B ) or ( ENGLISH 102A and 102C ) or ( ENGLISH 102A and 102D ) or ( EN"
+    },
+    {
+      "department": "engr",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engr/",
+      "code": "ENGR 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "engr",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engr/",
+      "code": "ENGR 196W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "Completion of at least 4 units of Individual Research in Engineering. Satisfactory completion of the Lower-Division Writing requirement."
+    },
+    {
+      "department": "engrcee",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engrcee/",
+      "code": "ENGRCEE 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "engrcee",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engrcee/",
+      "code": "ENGRCEE 254P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of reinforced concrete design and introduction to earthquake engineering."
+    },
+    {
+      "department": "engrcee",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engrcee/",
+      "code": "ENGRCEE 255P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of structural design engineering and seismic design provisions."
+    },
+    {
+      "department": "engrcee",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engrcee/",
+      "code": "ENGRCEE 264P",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate-level introduction to environmental processes, mass balances, and transport phenomena."
+    },
+    {
+      "department": "engrmae",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/engrmae/",
+      "code": "ENGRMAE 228",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate-level heat transfer is recommended."
+    },
+    {
+      "department": "epidem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/epidem/",
+      "code": "EPIDEM 215",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Two quarters of upper-division or graduate training in statistical methods."
+    },
+    {
+      "department": "epidem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/epidem/",
+      "code": "EPIDEM 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "epidem",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/epidem/",
+      "code": "EPIDEM 297",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 1ABSP",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Two years of high school Spanish, one semester of college Spanish, or heritage speaker of Spanish."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 1BCSP",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "FRENCH 1ABSP with a minimum grade of C or FRENCH 1AB with a minimum grade of C or FRENCH S1AB with a minimum grade of C or FRENCH 1B with a minimum grade of C. Two years of high school Spanish, one semester of college Spanish, or heritage s"
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 1C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "FRENCH 1B with a minimum grade of C or French Language and Culture with a minimum score of 3."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH S1BC",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "FRENCH S1AB with a minimum grade of C or FRENCH 1B with a minimum grade of C or FRENCH 1AB with a minimum grade of C or FRENCH 1ABSP with a minimum grade of C."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 2A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "FRENCH 1C with a minimum grade of C or FRENCH 1BC with a minimum grade of C or FRENCH S1BC with a minimum grade of C or FRENCH 1BCSP with a minimum grade of C or French Language and Culture with a minimum score of 3. Placement into FRENCH 2"
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 2AB",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "FRENCH 1C with a minimum grade of C or FRENCH 1BC with a minimum grade of C or FRENCH S1BC with a minimum grade of C or FRENCH 1BCSP with a minimum grade of C. Prior high school or college French is recommended. Placement into FRENCH 2AB is"
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 2BC",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "FRENCH S2AB with a minimum grade of C or FRENCH 2AB with a minimum grade of C. Prior high school or college French is recommended. Placement into FRENCH 2BC is also accepted."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 102A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C (may be taken concurrently) with a minimum grade of C or FRENCH 2BC (may be taken concurrently) with a minimum grade of C or FRENCH S2BC (may be taken concurrently) with a minimum grade of C or French Language and Culture with a m"
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 102B",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 102C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 102D",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 102E",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 116",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 117",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 118",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 119",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 120",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "french",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/french/",
+      "code": "FRENCH 140",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "FRENCH 2C with a minimum grade of C or FRENCH 2BC with a minimum grade of C or FRENCH S2BC with a minimum grade of C or French Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "gen_sex",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/gen_sex/",
+      "code": "GEN&SEX 197",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Satisfactory completion of the Upper-Division Writing requirement."
+    },
+    {
+      "department": "german",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/german/",
+      "code": "GERMAN 2A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.80). Raw text retained.",
+      "rawExcerpt": "GERMAN 1BC with a minimum grade of C or GERMAN 1C with a minimum grade of C or GERMAN S1BC with a minimum grade of C or German Language and Culture with a minimum score of 3. Placement into GERMAN 2A is also accepted."
+    },
+    {
+      "department": "german",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/german/",
+      "code": "GERMAN 101",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "GERMAN 2C with a minimum grade of C or German Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "german",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/german/",
+      "code": "GERMAN 102",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "GERMAN 2C with a minimum grade of C or German Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "german",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/german/",
+      "code": "GERMAN 103",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "GERMAN 2C with a minimum grade of C or German Language and Culture with a minimum score of 4."
+    },
+    {
+      "department": "human",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/human/",
+      "code": "HUMAN 270",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Students should have taken introductory courses before enrolling in these seminars."
+    },
+    {
+      "department": "i_c_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/i_c_sci/",
+      "code": "I&C SCI 6B",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "High school mathematics through trigonometry."
+    },
+    {
+      "department": "i_c_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/i_c_sci/",
+      "code": "I&C SCI 80",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 80",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 132",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 131 ."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 134",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 131 and IN4MATX 133 ."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 143",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "( IN4MATX 131 with a minimum grade of C or SWE 43 with a minimum grade of C) and ( I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C)."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 153",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "( IN4MATX 161 or SWE 43 ) and ( I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C)."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 163",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 162 or IN4MATX 162W."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 172",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "PUBHLTH 105 or IN4MATX 171 ."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 173",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 174",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 190",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 191A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "SWE 113 and SWE 121 and IN4MATX 131 and IN4MATX 151 ."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 203",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 261 with a minimum grade of B- or IN4MATX 251 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 205",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-. Basic knowledge of elementary statistics is also required."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 232",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Some familiarity with HCI principles."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 263",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 265",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 267",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 251 or IN4MATX 261 ."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 281",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 280 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 282",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 280 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 283",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 280 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 284",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 282 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 285",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 280 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 286",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 280 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 287",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 283 with a minimum grade of B- and IN4MATX 284 with a minimum grade of B-."
+    },
+    {
+      "department": "in4matx",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "code": "IN4MATX 288",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "IN4MATX 287 with a minimum grade of B-."
+    },
+    {
+      "department": "iran",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/iran/",
+      "code": "IRAN 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Background in art history or legal studies."
+    },
+    {
+      "department": "italian",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/italian/",
+      "code": "ITALIAN 1ABSP",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Two years of high school Spanish, one semester of college Spanish, or heritage speaker of Spanish."
+    },
+    {
+      "department": "italian",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/italian/",
+      "code": "ITALIAN 1BC",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.67). Raw text retained.",
+      "rawExcerpt": "ITALIAN 1AB with a minimum grade of C or ITALIAN 1ABSP with a minimum grade of C or ITALIAN 1B with a minimum grade of C. Placement into ITALIAN 1BC is also accepted."
+    },
+    {
+      "department": "italian",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/italian/",
+      "code": "ITALIAN 1BCSP",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "ITALIAN 1ABSP with a minimum grade of C or ITALIAN 1AB with a minimum grade of C or ITALIAN S1AB with a minimum grade of C or ITALIAN 1B with a minimum grade of C. Two years of high school Spanish, one semester of college Spanish, or herita"
+    },
+    {
+      "department": "italian",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/italian/",
+      "code": "ITALIAN 2A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.75). Raw text retained.",
+      "rawExcerpt": "ITALIAN 1C with a minimum grade of C or ITALIAN 1BC with a minimum grade of C or ITALIAN S1BC with a minimum grade of C or ITALIAN 1BCSP with a minimum grade of C. Placement into ITALIAN 2A is also accepted."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 43",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 43. Introduction to Symbolic Logic. Units. An introduction to the symbolism and methods of the logic of statements, including evaluation of arguments by truth tables, the techniques of natural de"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 109",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 119",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 129",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 139",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 141",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 141. Topics in Philosophy of Language. Units. Selected topics in the philosophy of language, e.g., the nature of meaning, mechanisms of reference, speech acts."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 145A",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 145A. Elementary Set Theory. Units. An introduction to the basic working vocabulary of mathematical reasoning. Topics include sets, Boolean operations, ordered n-tuples, relations, functions, ord"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 145B",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 145B. Metalogic. Units. Introduction to formal syntax (proof theory) and semantics (model theory) for first-order logic, including the deduction, completeness, compactness, and Löewenheim-Skolem "
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 145C",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 145C. Undecidability and Incompleteness. Units. Introduction to the formal theory of effective processes, including recursive functions, Turing machines, Church's thesis, and proofs of Göedel's i"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 149",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 158",
+      "stage": "units",
+      "message": "Could not parse units from \"Units.\".",
+      "rawExcerpt": "LSCI 158. Language and the Brain. Units. Research analysis on biological bases of human linguistic capacity. Development, focusing on hemispheric specialization, plasticity; localization of specific l"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 159",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 164A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 169",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 169D",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 179",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 189",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 195A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Permission of faculty advisor. If this is not the same faculty member as the course instructor, the faculty advisor will coordinate with the course instructor when it comes to assessing the student’s research process at the end of each quar"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 195B",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Permission of faculty advisor. If this is not the same faculty member as the course instructor, the faculty advisor will coordinate with the course instructor when it comes to assessing the student’s research process at the end of each quar"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 195C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Permission of faculty advisor. If this is not the same faculty member as the course instructor, the faculty advisor will coordinate with the course instructor when it comes to assessing the student’s research process at the end of each quar"
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 219",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 229",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 239",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "lsci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/lsci/",
+      "code": "LSCI 279",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "math",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/math/",
+      "code": "MATH 228",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "A basic course in programming; familiarity with probability and differential equations at the upper undergraduate level."
+    },
+    {
+      "department": "mgmt",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mgmt/",
+      "code": "MGMT 190",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "mgmtmba",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mgmtmba/",
+      "code": "MGMTMBA 201A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Courses in basic statistics with probability."
+    },
+    {
+      "department": "mpac",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mpac/",
+      "code": "MPAC 231A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Intermediate accounting."
+    },
+    {
+      "department": "mpac",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mpac/",
+      "code": "MPAC 238",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Intermediate accounting and basic auditing."
+    },
+    {
+      "department": "mse",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mse/",
+      "code": "MSE 195",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "mse",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/mse/",
+      "code": "MSE 249",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 160",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 161",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Audition required."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 191",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate advisor approval required."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 195A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "Senior standing in the Honors Program in Music and Culture."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 199",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate or graduate advisor approval required."
+    },
+    {
+      "department": "music",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/music/",
+      "code": "MUSIC 299",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Graduate advisor approval required."
+    },
+    {
+      "department": "net_sys",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/net_sys/",
+      "code": "NET SYS 260",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "An undergraduate-level course in operating systems and networks."
+    },
+    {
+      "department": "neurbio",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/neurbio/",
+      "code": "NEURBIO 217",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Undergraduate- or graduate-level immunology experience is required."
+    },
+    {
+      "department": "neurbio",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/neurbio/",
+      "code": "NEURBIO 220",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "At least one upper-division course in the field of Neuroscience or one upper-division course in Cognitive Science or Machine Learning."
+    },
+    {
+      "department": "nur_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/nur_sci/",
+      "code": "NUR SCI 125",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.83). Raw text retained.",
+      "rawExcerpt": "STATS 7 with a minimum grade of C or STATS 8 with a minimum grade of C or SOCIOL 10A with a minimum grade of C or SOC SCI 10A with a minimum grade of C or COGS 10A with a minimum grade of C. Satisfactory completion of Lower-Division Writing"
+    },
+    {
+      "department": "nur_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/nur_sci/",
+      "code": "NUR SCI 261",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Enrollment in a UCI Ph.D. program and at least one introduction qualitative course."
+    },
+    {
+      "department": "nur_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/nur_sci/",
+      "code": "NUR SCI 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "physics",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/physics/",
+      "code": "PHYSICS 3C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "PHYSICS 3A or AP Physics C: Mechanics with a minimum score of 5. A score of 4 or higher on the AP Calculus BC exam"
+    },
+    {
+      "department": "pol_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pol_sci/",
+      "code": "POL SCI H180D",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Only open to students in the Political Science Honors Program."
+    },
+    {
+      "department": "portug",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/portug/",
+      "code": "PORTUG 243",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Reading knowledge of Portuguese."
+    },
+    {
+      "department": "psy",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/psy/",
+      "code": "PSY 156C",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.86). Raw text retained.",
+      "rawExcerpt": "( PSY 9 or COGS 7A or COGS 9C) and PSY 102C and ( PSY 161C or CRM/LAW C160 ). Interview required"
+    },
+    {
+      "department": "psy",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/psy/",
+      "code": "PSY P296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "pubhlth",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "code": "PUBHLTH 106",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "PUBHLTH 105 or IN4MATX 171 ."
+    },
+    {
+      "department": "pubhlth",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "code": "PUBHLTH 109",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C."
+    },
+    {
+      "department": "pubhlth",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "code": "PUBHLTH 110",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.50). Raw text retained.",
+      "rawExcerpt": "IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C."
+    },
+    {
+      "department": "pubhlth",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "code": "PUBHLTH 173",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "One upper-division course in environmental science, public health, environmental policy, and/or environmental management."
+    },
+    {
+      "department": "pubhlth",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "code": "PUBHLTH 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "soc_sci",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/soc_sci/",
+      "code": "SOC SCI 119",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "socecol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/socecol/",
+      "code": "SOCECOL 104W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.33). Raw text retained.",
+      "rawExcerpt": "SOCECOL 10 . Satisfactory completion of the Lower-Division Writing requirement. Minimum cumulative GPA above 2.0. Authorization for field study."
+    },
+    {
+      "department": "socecol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/socecol/",
+      "code": "SOCECOL 106W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.33). Raw text retained.",
+      "rawExcerpt": "SOCECOL 10 . Satisfactory completion of the Lower-Division Writing requirement. Minimum cumulative GPA above 2.0. Authorization for field study."
+    },
+    {
+      "department": "socecol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/socecol/",
+      "code": "SOCECOL 195W",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.33). Raw text retained.",
+      "rawExcerpt": "SOCECOL 10 . Cumulative UC GPA of 2.0. Authorization is required. Successful completion of the Lower-Division Writing requirement."
+    },
+    {
+      "department": "socecol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/socecol/",
+      "code": "SOCECOL 295",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    },
+    {
+      "department": "socecol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/socecol/",
+      "code": "SOCECOL 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to Candidacy."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 19",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 29",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 39",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 59",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 69",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 79",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 119",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 149",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 159",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 169",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 179",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 189",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Prerequisites vary."
+    },
+    {
+      "department": "sociol",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/sociol/",
+      "code": "SOCIOL 265",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Enrollment in DASA program."
+    },
+    {
+      "department": "spanish",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/spanish/",
+      "code": "SPANISH 97",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Does not serve as prerequisite for any higher-level Spanish courses."
+    },
+    {
+      "department": "stats",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/stats/",
+      "code": "STATS 210",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of basic statistics, calculus, linear algebra."
+    },
+    {
+      "department": "stats",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/stats/",
+      "code": "STATS 210A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Knowledge of basic statistics (at the level of STATS 7 ), calculus, and linear algebra."
+    },
+    {
+      "department": "stats",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/stats/",
+      "code": "STATS 230",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Two quarters of upper-division or graduate training in probability and statistics."
+    },
+    {
+      "department": "ucdc",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/ucdc/",
+      "code": "UCDC 170",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Selected for Washington DC Center Program."
+    },
+    {
+      "department": "ucdc",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/ucdc/",
+      "code": "UCDC 180",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Must be selected for Washington DC Center Program."
+    },
+    {
+      "department": "ucdc",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/ucdc/",
+      "code": "UCDC 190",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Selected for Washington DC Center Program."
+    },
+    {
+      "department": "uni_aff",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/uni_aff/",
+      "code": "UNI AFF 1A",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Project must be approved by a Student Affairs Department head and the instructor."
+    },
+    {
+      "department": "uni_stu",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/uni_stu/",
+      "code": "UNI STU 297",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Teaching experience."
+    },
+    {
+      "department": "uppp",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/uppp/",
+      "code": "UPPP 246",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Familiarity with basic statistics is required."
+    },
+    {
+      "department": "uppp",
+      "sourceUrl": "https://catalogue.uci.edu/allcourses/uppp/",
+      "code": "UPPP 296",
+      "stage": "prerequisite",
+      "message": "Prerequisite text partially unparsed (confidence 0.00). Raw text retained.",
+      "rawExcerpt": "Advancement to candidacy."
+    }
+  ]
+}

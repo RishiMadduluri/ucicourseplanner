@@ -1,0 +1,635 @@
+{
+  "buildId": "catalogue-2026-27-2026-07-24-ee125b9d",
+  "schemaVersion": 1,
+  "catalogueYear": "2026-27",
+  "retrievedAt": "2026-07-24T22:11:52.412Z",
+  "retrievalDate": "2026-07-24",
+  "offline": true,
+  "sources": [
+    {
+      "url": "https://catalogue.uci.edu/allcourses/",
+      "kind": "catalogue_index"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ac_eng/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/afam/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ai_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/anatomy/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/anthro/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/arabic/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/armn/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/art/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/art_his/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/arts/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/asianam/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/asl/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/bana/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/bats/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/bio_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/biochem/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/bme/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/cbe/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/cbems/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/chc_lat/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/chem/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/chinese/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/classic/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/clt_thy/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/cogs/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/com_lit/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/compsci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/critism/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/crm_law/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/cse/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/dance/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/data/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/dev_bio/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/drama/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/earthss/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/eas/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/eco_evo/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/econ/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ecps/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/educ/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/eecs/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ehs/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/english/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/engr/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/engrcee/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/engrmae/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/epidem/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/euro_st/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/fin/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/flm_mda/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/french/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/gdim/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/gen_sex/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/german/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/glblclt/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/glblme/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/greek/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/hebrew/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/history/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/human/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/i_c_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/in4matx/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/inno/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/intl_st/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/iran/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/italian/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/japanse/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/korean/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/latin/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/linguis/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/lit_jrn/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/lps/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/lsci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/m_mg/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/math/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/medhum/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmt/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmt_ep/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmt_fe/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmt_hc/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmtmba/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mgmtphd/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mnge/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mol_bio/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mpac/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/mse/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/music/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/net_sys/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/neurbio/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/nur_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/path/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ped_gen/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/persian/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/pharm/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/philos/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/phmd/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/phrmsci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/phy_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/physics/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/physio/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/pol_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/portug/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/pp_d/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/psy/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/pub_pol/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/pubhlth/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/rel_std/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/rotc/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/russian/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/soc_sci/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/socecol/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/sociol/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/spanish/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/spps/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/stats/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/swe/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/ucdc/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/uni_aff/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/uni_stu/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/uppp/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/vietmse/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/vis_std/",
+      "kind": "catalogue_department"
+    },
+    {
+      "url": "https://catalogue.uci.edu/allcourses/writing/",
+      "kind": "catalogue_department"
+    }
+  ],
+  "sourceHashes": {
+    "_index.html": "f2a26ea808693f578a68b55e978aa9e4009283972fb697429ad0b5ccdd9a89d1",
+    "ac_eng.html": "e5f1b6f1ca2c39fe6ce064d0a4220bb69837a5ece62950ad0c70b9a2b4c3f2e0",
+    "afam.html": "891051227f5ad37344be77f812ff77c4ecbd0ac93d05b18745933309085f9dab",
+    "ai_sci.html": "fa90b77d60f9286761ca5e30ba7dbe84aa4d8da91318438a486a778d40f3d425",
+    "anatomy.html": "a7d6e818f63750ba36b50f31800ea701ee45295493d11e9b208cff3899131b84",
+    "anthro.html": "c9eac9bffa403430a3ed35b3337f9ed47d0ea0e1da1a8fa4f5df2da539bb7b81",
+    "arabic.html": "5ec8963c3a12c594a62c90939d6039886172c56e7ca23575f403b4e4f939775d",
+    "armn.html": "35a28ee564a6b054bd4797aebab9d4c4cbdd972ba6b839d4a83f8a7b2cbc1218",
+    "art.html": "13c8a3144188ff021275eff17ee8eec706837761be3d09cb9c3ac55bf3e9fba7",
+    "art_his.html": "58e64e67436565f167913b065e9e338483917197ddf1e6b4ccbe1fc9f757cb72",
+    "arts.html": "8d6d83bdfd4ec089b5e879e5c78d913f090f619ab387a0e99fb6a1669f1831a1",
+    "asianam.html": "2a3fa81100914cf7a454a5d6852a07d0da25d64bd4e95dc98721c298bf1fc16c",
+    "asl.html": "bfe7dcb962e0e93dda47feb09731ff96598512553821932e957dc6b0fb6f3767",
+    "bana.html": "494a712b23c8e091e060de74240cdb5bf744eee180d8851e09f3371d8efb4362",
+    "bats.html": "3162d705b6b7bc35b002560fdee57c0566c70c2dd5bb2918b2ce849fa5859fb2",
+    "bio_sci.html": "0588fe77434f82319090999b7fbf47da9c934920089f8bdbf091812728e4f134",
+    "biochem.html": "4057be873f0a21ec4e31efaf125e740b1b376d9ed4c338008199e10b710c6cc8",
+    "bme.html": "47e5fd0dad485e796e43b010a9671e06c7b90b4e0cd71f4c53fd052ab2c7c9e7",
+    "cbe.html": "0795d9cfc041df8c3992957cc77044b2d9089a03cd0623dd6b1c7f058a22dfb4",
+    "cbems.html": "1144d1c81d81f542b7d540d04adaf8026a370104e724e8740e59374cbc3d7c16",
+    "chc_lat.html": "42d39bb89fdeda84707604076a1e085cac8c40c504f430492448430cfbef6352",
+    "chem.html": "01d232bdfc1af07247c7dd1667af081017b917234a5cb15adf99bb5e8cdc6f6c",
+    "chinese.html": "ebf60688bd1b54c81d23d85c3b52662faf45bbda02cc0b84415803ea640489ec",
+    "classic.html": "9da57d57e56e0d6274d1af71462071905377be3aa0b8f3e9f4421ff6947da816",
+    "clt_thy.html": "263ee7d1d6596e91124fd5e17227da68bc4365c8fa312751f3bd328b6c7cdf94",
+    "cogs.html": "aa50b970054dac4eb44018ac613a0ac38fa8b2cf4acad0f2f279d756567add9e",
+    "com_lit.html": "227d2296f0042577f24b1a114d64817dfec05aea8a700cef05ea0b0db1279a07",
+    "compsci.html": "754d430f5b40931d700a200395e26cb9cb38924fea3869c49616cf68ddb2d86a",
+    "critism.html": "480e1b595b888650de7b7372c2e7bd12bed5cb08ff6381870dc49167a9ab9332",
+    "crm_law.html": "a2873ac1a9fe3d53adf37c257e40d6db5a248fcefd144b2ff2e2a44c2440ecf1",
+    "cse.html": "1973e6d4220f3b0c88d137e626880bd51a5dbc812c711e2d0fa48cad2d941aed",
+    "dance.html": "c0c55b735ab85772d0fb559b62ddc91f949efd783278192be070934e1779cb96",
+    "data.html": "d8ed9c75f29c6fb56ee2b5088ed7109f5ada3698b99eb7209232aa5b925a3e4c",
+    "dev_bio.html": "c1207c4d1d5cf5b0d4527d71de2c1192885fb855929ea2ebb29beecd39f11f9f",
+    "drama.html": "2534737f4971f086b4f51535a8d222efefe4214fa07e2b285f450de1fe3d5b98",
+    "earthss.html": "b94208d8aa45a2aa856a4d830b537771718f52cf3b81f265b7276d50ec53d2bd",
+    "eas.html": "972099894efb4b7494d7dda9533a332cb6d0f0297ace9bb87d6e16d1793b7d1c",
+    "eco_evo.html": "74339ac81d439005a4aadc50c34e7def3438f78bb9f1cbe7b243f3b564b1c5ab",
+    "econ.html": "32c9305ff66fe590459337b383a8787db3e0e1912b3db9101387a37a6be72d82",
+    "ecps.html": "1a7e9b91ad1f817c447e3876d25c7fc133797226594cfa629945edcbd3cde92b",
+    "educ.html": "7ab5812cc31b4ae132cd1a92c9d03a3f615a704cbb8bc557846012031de86ce4",
+    "eecs.html": "8ed066dde0c4eedf73157566b40c7fc8a81ad6e284242f28eebe887f0010213d",
+    "ehs.html": "2d2cf5cc6d70fb86dd88ccc00cc2a9e1f94a735a5acd85a849111e29a613b657",
+    "english.html": "dea25ab46bae242e4fb68abf52b7013866cc24708980240eae6fc364b4da587e",
+    "engr.html": "4b1838ba7369e4c59202f2061431527495a7772eb465abd967dab5f14dbede13",
+    "engrcee.html": "da359f33559b166111ee4ff8912426c91042c75491c11ffaafe1fca781b1de4f",
+    "engrmae.html": "eccedd90707809fe91c2bf7781da62842f07182810191bf94b1b816dc27df0b0",
+    "epidem.html": "72aa40e1984f9aeacbd313d464eb6a9727053d89f960aee8ef8e3861b4cb013b",
+    "euro_st.html": "0fc30ee50b293ef48b636d5962c3dbf0ccb28cc88abd050440eadc333311684e",
+    "fin.html": "febcfb77d8e2b76ba3a8b538e75b3c175cb44dcccdc884b3b330a5105234a6fc",
+    "flm_mda.html": "d176d87ddd58ca856596e4610198d4f7630ceea22e369ec44ff4654041790115",
+    "french.html": "8b381e68fd8e27785867d1bd36b4c2097e20a92b560b825f18e7ffeef70c7366",
+    "gdim.html": "2170eb21a058e7f866186040ca10b263ee92d9a1462d9901f1cd27cf32bc18dc",
+    "gen_sex.html": "f7e3903b4ff7c7064950e825c5c338ac7eff717afca1d5345b974ee239906800",
+    "german.html": "a61f2e25ec3599ee3f01f5ee23bf571ec346b577492de657ad953b8803123a66",
+    "glblclt.html": "82512df5d7033b5548fc0d477d61bb931d468116665545acdd931edf68394b1f",
+    "glblme.html": "1e7b2a9883d0219de74f2b6c4dbfef440e256119179ce2d36f32d392431a17e5",
+    "greek.html": "1471c7afab4c06e6d4bc02e46f64ae78a363efa389e013eb82d53fadc6df80c4",
+    "hebrew.html": "6e0be814f4fa40c34c6352041bc63e4ccb41df7c35aa85d7630f0b7fed293733",
+    "history.html": "9949a771342486f5ca00da9979477fa9086ca361b020222f5254ccc1b9f00697",
+    "human.html": "822ef67147b337d2f45274e923a417dce742e1383e27afc1fe5ccd742b8ce1e7",
+    "i_c_sci.html": "861caeb624f5ce427478716877cc92b3a7644874113921c20ff0598c30b104f0",
+    "in4matx.html": "fc3fe61c59312576c94b9668f6b5564e9b40d37b72d1059a8045d094883ecb39",
+    "inno.html": "cec694a51afa247d8e690150569bca620e6e093852d7c414bbb8c729461ac7d7",
+    "intl_st.html": "a093901405b15c8dddbe6d7e4e88bec5533bcdb5bdc1adf4f24fcc7641986247",
+    "iran.html": "0af164c86585e3cc0ea8fd50cf8c11741eff07f4b68eb7b6f5c61ec35ab0fc82",
+    "italian.html": "a884d56373265d2de821a5ab7fe0845d11475c9f20d1cd32b212fa986561e10a",
+    "japanse.html": "b5112d2e61bcfe72b362a6868c471bd9a6576ba9f90fb4c4bf4396010d5f706b",
+    "korean.html": "3aa15d00e165126869e74eefd5168abd2f7172f50b7fd63b88c56e32964726aa",
+    "latin.html": "d67ea14e1edd893aa2f21457f57f222587e9c3e18c22bbbb15cf8e7e68450832",
+    "linguis.html": "d8b96e9036af7a93663093e9cc44960815e70eaa71c52c6575f4ea633acec147",
+    "lit_jrn.html": "f6353f346320b940b5b0e3bd135ad5079e47f9938e6100b798a3f2491602b5b1",
+    "lps.html": "3bfab03a35435a905134a985debe6523a63b80a5a950f253604f9b288cb74016",
+    "lsci.html": "a1c91ff03e1d3f1487901d8249fcb411ffe2e4faec55ce7536e97b69b711c304",
+    "m_mg.html": "24899580814aadf1399ce0c8364a4922dda8c2c67de14b08f78f3d7c8dd77441",
+    "math.html": "34495ba824c06e376b1cfcf4aa498339b85e7e8b791aa5f43c335360d55f9b88",
+    "medhum.html": "d2a1b3beb9ef6b72a741f4ec53209f89685b8a93fb7a2ae37ad24fac2c6c1189",
+    "mgmt.html": "408817045a113ad4b41cf232d4005ae312a708890f83c4b8bb01d82206988beb",
+    "mgmt_ep.html": "cda41797731096fdcb4529d2525d3a6c813ebf45ee82f8df353e09edeb11c6fd",
+    "mgmt_fe.html": "62e80b9e32ff9f6d135e4f71194f05c503fcc6b42072241b2670bf23a87098f6",
+    "mgmt_hc.html": "f8d8607225fa407e28929982c1fb3be5d27a79a3108d496f809ee6dabc964689",
+    "mgmtmba.html": "283cf11118cc73de2e5660747a4a94016d254a07c0f843a02c2a03410bf69719",
+    "mgmtphd.html": "36cc8727d74450db698d30abda56ee884ca91bc57e6041cdf4db661b7b0a6b62",
+    "mnge.html": "2a4f9e44304db8d5a6a6415a7db492e6cac0a4d505bbb7ac6aa42e58085190e0",
+    "mol_bio.html": "a0af18816c0dd4a920530d10c771e5a865ad51cd943d4d88d8cb74174dcd2f7b",
+    "mpac.html": "3e4a52096c217a35416287668a24754a17a4f7660db81c39bd4229e3c5368b39",
+    "mse.html": "9f656482f4c8530781edcd96428f22fd392413d3accf520c32846bee3ec32107",
+    "music.html": "3b6ea57dcb64acdc09b088d2a1490daa261dc3dd0f74dc611874e3f89fcce0e3",
+    "net_sys.html": "e527b478b810a0f65678042678eb0e566278381b275bf1de5a8ae649383c9b2b",
+    "neurbio.html": "0f0c34a3c5c03e12a172634260a7682675b9c166fa958843c0fb2d9c613e12f0",
+    "nur_sci.html": "29ce62ab6225c9784677c33dc9f5e3119c3c9a21948154b571fbec6d8ded6828",
+    "path.html": "1bc77aa29554951631a4bbdc6d1f8cb5a5a88d909c36502e1cb09aca7d577efd",
+    "ped_gen.html": "5b3a51fe002a8a05fba24456d29b7712464e981ad287daf855a20c57dd3e2709",
+    "persian.html": "2561e91059529a4c13d92f2afc51ef9384c3f099e9f9cd96a103a53ee25e074f",
+    "pharm.html": "e84307b178285999ad86d861784ab09fdccd201c95083e26b2e20ede8631f6b9",
+    "philos.html": "0c6a984a77ec029a90c37e293099705d177573149d0aabaac1e3827a80bc98d8",
+    "phmd.html": "11ab6aea1d1b8061b63cf36a457f306327f1298f5c89b8eda4c6d62a2dc776c8",
+    "phrmsci.html": "8e95f1683e31741c8d8d810395b49117ad2dd890535721abb0fb3257227a6e43",
+    "phy_sci.html": "c534a331913ce86d7e14b1f0ac99f865dd5a512d09781fc16bd3140dd3dbca3f",
+    "physics.html": "a4857cae691d3d12ee879d7ad43f6bd6bdcb5246605eb79a55cdd16e68176c5c",
+    "physio.html": "cf5c399f5d282351d433aac5073429cdac381e3f5a25ea19844a1b9300f903fe",
+    "pol_sci.html": "04c5deeb4ecc17ef91e70cc634c438dd32ae78df568628d36be05ddde2b1cf60",
+    "portug.html": "acdc3151e987a23d7387996b55d00acc88fb955247eb848ef3d1246286c63307",
+    "pp_d.html": "609489a953e22715e32be3b1bb54ddfc5373685eaef43029b4116585b19e4422",
+    "psy.html": "30c0e297d59ca658da75f4ad18140dd5720bbd0c1d41b43087fb65108bc8eb46",
+    "pub_pol.html": "37ed8e00c46ca868b44635ffeebf13a504fb71f9b8a93bdb5e463646cc10c475",
+    "pubhlth.html": "a2fe803750130546ede8292bdd922a35cf62b09d96b6f32bcd7b4d673004b317",
+    "rel_std.html": "0985a6f99cb76ebf199d90bb2a2f467214aeee5968f9202784ebf64d673d102c",
+    "rotc.html": "67ed2e360d2b8ee3a3e89626ccaa7f550bb1909006b8d4e955cd62cc36de3859",
+    "russian.html": "507993fb5262c5e5e9fd7f1986e7e3e9b65b6808c09f82dbc3625ee4df0bc07b",
+    "soc_sci.html": "f65e1d036d7d4696a7e4144f02db716f53cd1ec32296928d405c10f4800d5213",
+    "socecol.html": "9dec6687c01fbd3420e94c6c7e26e925bdbd33b5184b6997f8a23f2226ae5ec6",
+    "sociol.html": "b01731067eb3b5662ba887774ee731b4828e2d4e4064b17f28b3ed6cf7b88181",
+    "spanish.html": "855e7afc74bd32e1bb4cd65365ef7e269a5fd91f914116cdae7fa67178fc18ce",
+    "spps.html": "8123870a698969c3436ec8106e5b2b01b6e2642995a8082d862cc23971d64d47",
+    "stats.html": "5ec011f92f534122f37496a8eec6bce0fef3c5a8fb5b294bdc295fe726534567",
+    "swe.html": "32d8667dd3204bed4759dd31224b1f5f6864325cbfbd0bc5941be9d60c291e57",
+    "ucdc.html": "a6123bc34e78044c6276b9b3a4fb29e3fddfdc17286a34fe63dc3b92097f21a2",
+    "uni_aff.html": "cfb385285cb90058ff3fb11ac45bb0846b22de2369b8e22c7a4639d40b9762cb",
+    "uni_stu.html": "1c45db0e9d0162fdc8fc62623585999420f260307989fda89b94b82ab3b55fe1",
+    "uppp.html": "0417ace1a9f02df6ce15ed020ab84694c3d9aa17ce9ea84c0d2a9d2480a1993c",
+    "vietmse.html": "9f977176a69c61ad8e6ce672eb560709f64d9e3f8545a1ef70bcebcdc65364e3",
+    "vis_std.html": "ddfa252a53f01ae77dadbf1d181a018f93487f4e68aa45c71780136020d7b6c4",
+    "writing.html": "3394b91539787087b7547e67306f38ac2c36d380505acb3b60ec6a68e1fb0af7"
+  },
+  "courseCount": 5933,
+  "departmentCount": 123,
+  "parserErrorCount": 225
+}
